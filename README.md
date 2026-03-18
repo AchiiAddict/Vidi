@@ -1,5 +1,10 @@
 # VIDI
 
+![Unity](https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity)
+![C#](https://img.shields.io/badge/Code-C%23-blue?style=for-the-badge&logo=csharp)
+![Status](https://img.shields.io/badge/Status-Development-yellow?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-PC-lightgrey?style=for-the-badge)
+
 ## 🎮 Description
 VIDI is a psychological horror and puzzle game inspired by observation duty-style gameplay.  
 The player monitors multiple rooms through security cameras and must detect and report anomalies before they escalate.
@@ -23,11 +28,18 @@ Failing to detect anomalies in time may result in unexpected consequences.
 - C#
 
 ## 📌 Project Status
-This project was developed as a learning project.  
-Core systems such as camera switching, anomaly logic, and atmosphere design have been implemented.
+This project was developed as a learning experience to explore core game development concepts in Unity.
+
+Implemented systems include:
+- Camera switching system
+- Anomaly detection logic
+- Basic audio-visual atmosphere design
 
 ## 👤 Author
-Developed by a solo developer.
+Developed by Doğukan Mavi
+
+- Solo Game Developer
+- Focused on Unity and C# development
 ## 📸 Screenshots
 
 ### 🏠 Main Menu
