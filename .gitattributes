@@ -14,7 +14,6 @@
 *.jpeg filter=lfs diff=lfs merge=lfs -text
 *.lighting filter=lfs diff=lfs merge=lfs -text
 *.fbx filter=lfs diff=lfs merge=lfs -text
-*.cs filter=lfs diff=lfs merge=lfs -text
 *.anim filter=lfs diff=lfs merge=lfs -text
 *.controller filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text linguist-detectable=false
@@ -23,4 +22,6 @@
 *.unity filter=lfs diff=lfs merge=lfs -text
 *.hlsl filter=lfs diff=lfs merge=lfs -text linguist-detectable=false
 *.tga filter=lfs diff=lfs merge=lfs -text
+linguist-detectable=false
+*.cs filter=lfs diff=lfs merge=lfs -text linguist-detectable=true
 
