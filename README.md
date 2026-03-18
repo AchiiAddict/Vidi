@@ -43,19 +43,19 @@ Developed by Doğukan Mavi
 ## 📸 Screenshots
 
 ### 🏠 Main Menu
-![Main Menu](screenshots/MainMenu.png)
+![Main Menu](Screenshots/MainMenu.png)
 
 ### 🎮 Gameplay
-![Room 1](screenshots/Room1.png)
-![Room 2](screenshots/Room2.png)
-![Report Tab](screenshots/ReportTab.png)
-![Warning](screenshots/Warning.png)
+![Room 1](Screenshots/Room1.png)
+![Room 2](Screenshots/Room2.png)
+![Report Tab](Screenshots/ReportTab.png)
+![Warning](Screenshots/Warning.png)
 
 ### 👁️ Anomalies
-![Anomalies](screenshots/anomalies.png)
+![Anomalies](Screenshots/anomalies.png)
 
 ### ⚡ Effects
-![Glitch Effect](screenshots/GlitchEffect.png)
+![Glitch Effect](Screenshots/GlitchEffect.png)
 
 ### ⏸️ Pause Menu
-![Pause Menu](screenshots/ESC.png)
+![Pause Menu](Screenshots/ESC.png)
