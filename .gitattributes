@@ -1,4 +1,4 @@
-*.json filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text linguist-detectable=false
 *.asset filter=lfs diff=lfs merge=lfs -text linguist-detectable=false
 *.shader filter=lfs diff=lfs merge=lfs -text linguist-detectable=false
 *.shadergraph filter=lfs diff=lfs merge=lfs -text
@@ -17,10 +17,10 @@
 *.cs filter=lfs diff=lfs merge=lfs -text
 *.anim filter=lfs diff=lfs merge=lfs -text
 *.controller filter=lfs diff=lfs merge=lfs -text
-*.txt filter=lfs diff=lfs merge=lfs -text
-*.cginc filter=lfs diff=lfs merge=lfs -text
-*.wlt filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text linguist-detectable=false
+*.cginc filter=lfs diff=lfs merge=lfs -text linguist-detectable=false
+*.wlt filter=lfs diff=lfs merge=lfs -text linguist-detectable=false
 *.unity filter=lfs diff=lfs merge=lfs -text
-*.hlsl filter=lfs diff=lfs merge=lfs -text
+*.hlsl filter=lfs diff=lfs merge=lfs -text linguist-detectable=false
 *.tga filter=lfs diff=lfs merge=lfs -text
 
